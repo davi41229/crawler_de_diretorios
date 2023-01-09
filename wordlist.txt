@@ -1,0 +1,10 @@
+admin
+dashboard
+search
+busca
+atualidades
+contato
+inicial
+home
+api
+noticias
